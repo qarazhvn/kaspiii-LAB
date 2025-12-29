@@ -1,5 +1,3 @@
-package kz.lab.project1;
-
 public class TransactionService implements TransactionInterface {
 
     private TransactionMode mode;

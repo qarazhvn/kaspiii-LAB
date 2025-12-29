@@ -1,5 +1,3 @@
-package kz.lab.project1;
-
 public class ApiService {
     private static ApiService instance;
 
