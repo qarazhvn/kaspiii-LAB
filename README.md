@@ -1,1 +1,3 @@
-# LAB MODULE 1
+# Kaspi Lab
+
+### project1 --> HW1, project2 --> HW2, ...
